@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 import nltk
 from nltk.corpus import stopwords
 from nltk.cluster.util import cosine_distance
